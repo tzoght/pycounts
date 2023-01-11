@@ -1,5 +1,5 @@
-[![Documentation Status](https://readthedocs.org/projects/pycounts-tzoght/badge/?version=latest)](https://pycounts-tzoght.readthedocs.io/en/latest/?badge=latest)
-      
+[![Documentation Status](https://readthedocs.org/projects/pycounts-tzoght/badge/?version=latest)](https://pycounts-tzoght.readthedocs.io/en/latest/?badge=latest) [![ci-cd](https://github.com/tzoght/pycounts/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/tzoght/pycounts/actions/workflows/ci-cd.yml)
+       
 # pycounts
 
 Calculate word counts in a text file!
